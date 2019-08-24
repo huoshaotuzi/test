@@ -1,0 +1,17 @@
+{
+    "name": "huotu/test",
+    "description": "我的第一个包。",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "火兔兔子",
+            "email": "huoshaotuzi@icloud.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Huotu\\Test\\": "src/"
+        }
+    }
+}
